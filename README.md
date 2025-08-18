@@ -1,11 +1,8 @@
 ## Olá sou João e estou cursando o 2º Semestre de Eng. de Software & <br> O terceiro semestre de Desenvolvimento de Sistemas!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Joao-Quadro" width="250" src="https://www.meisterdrucke.pt/kunstwerke/1260px/Fra%20Angelico%20-%20The%20Conversion%20of%20St%20Augustine%20%28tempera%20on%20panel%29%20-%20%28MeisterDrucke-63452%29.jpg">
-   <img align = "center" alt = "Quadro" height="162" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical">
    <br> 
    <br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
