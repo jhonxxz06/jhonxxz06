@@ -5,7 +5,7 @@
 
 ---
 
-## 🎨 Um pouco de mim
+## 🎨 Gosto de Obras de Arte
 <div align="center">
   <img alt="Quadro-Santo-Agostinho" width="80%" height="500px" src="https://www.meisterdrucke.pt/kunstwerke/1260px/Fra%20Angelico%20-%20The%20Conversion%20of%20St%20Augustine%20%28tempera%20on%20panel%29%20-%20%28MeisterDrucke-63452%29.jpg">
   <br>
